@@ -1,3 +1,3 @@
 {
-    "DaminUrl": "http://public-backend-alb-1351216514.ap-northeast-2.elb.amazonaws.com"
+    "DaminUrl": "https://conl3eok0l.execute-api.ap-northeast-2.amazonaws.com/ruistage"
 }
